@@ -594,7 +594,6 @@
     z-index: 4;
     border-block-end: 1px solid transparent;
     transition: var(--transition-1);
-    height: 100vh;
   }
   
   .header.active {
